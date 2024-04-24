@@ -1,0 +1,18 @@
+{
+    "name": "perasser/random-bool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Perasser\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter Rasser",
+            "email": "peter.rasser@hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
